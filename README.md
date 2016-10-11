@@ -9,6 +9,7 @@ For simplicity.
 
 To run it:
 
-npm install
-webpack
+
+* npm install
+* webpack
 
